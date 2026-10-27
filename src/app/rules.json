@@ -1,0 +1,109 @@
+[
+  {
+    "intent": "Book Search",
+    "keywords": [
+      "search book",
+      "find book",
+      "book search",
+      "available book",
+      "book availability",
+      "book title",
+      "author",
+      "category",
+      "fiction",
+      "nonfiction",
+      "novel",
+      "catalog"
+    ],
+    "reply": "You can search for books by title, author, or category using the library catalog. Please provide the book title or author's name to help locate the book. This demo does not connect to a live catalog, so it cannot confirm actual availability."
+  },
+  {
+    "intent": "Book Return",
+    "keywords": [
+      "return book",
+      "return a book",
+      "book return",
+      "returning book",
+      "return books",
+      "submit book",
+      "renewal expired",
+      "where to return"
+    ],
+    "reply": "Please return borrowed books to the library circulation desk or the designated book-return box. Return books by their due dates to avoid possible late fees. Contact library staff if you have lost or damaged a book."
+  },
+  {
+    "intent": "Due Date",
+    "keywords": [
+      "due date",
+      "return date",
+      "when is my book due",
+      "book deadline",
+      "overdue",
+      "late fee",
+      "check deadline",
+      "renew book",
+      "renew my book"
+    ],
+    "reply": "You can check a book's due date on your borrowing receipt or in your library account, if online accounts are available. You may also ask the circulation desk. Contact the library to ask whether renewal is possible before the due date."
+  },
+  {
+    "intent": "Book Issue",
+    "keywords": [
+      "issue book",
+      "borrow book",
+      "borrow a book",
+      "book borrowing",
+      "get a book",
+      "checkout book",
+      "check out",
+      "borrow books",
+      "issue a book",
+      "loan period"
+    ],
+    "reply": "To borrow a book, present your valid library membership card at the circulation desk. Library staff will check availability and your borrowing eligibility. Borrowing limits and loan periods depend on library policy."
+  },
+  {
+    "intent": "Library Rules",
+    "keywords": [
+      "library rules",
+      "library timing",
+      "library timings",
+      "opening hours",
+      "closing time",
+      "library hours",
+      "membership",
+      "join library",
+      "library card",
+      "borrowing limit",
+      "quiet",
+      "fine",
+      "working days",
+      "weekend",
+      "student card"
+    ],
+    "reply": "Library rules generally include maintaining silence, keeping books in good condition, returning books on time, and presenting a valid membership card when borrowing. For exact opening hours, membership requirements, borrowing limits, and fees, please contact your library staff."
+  },
+  {
+    "intent": "Greeting",
+    "keywords": [
+      "hello",
+      "hi",
+      "hey",
+      "good morning",
+      "good afternoon",
+      "good evening",
+      "assalamualaikum"
+    ],
+    "reply": "Hello! Welcome to the Library Management Helpdesk. I can help you with book searches, borrowing, returns, due dates, and library rules. What would you like to know?"
+  },
+  {
+    "intent": "Thanks",
+    "keywords": [
+      "thank you",
+      "thanks",
+      "thankyou",
+      "thx"
+    ],
+    "reply": "You're welcome! I'm happy to help with your library questions."
+  }
+]
